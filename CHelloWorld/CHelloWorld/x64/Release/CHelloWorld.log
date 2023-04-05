@@ -1,0 +1,6 @@
+﻿  CHelloWorld.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CHelloWorld.vcxproj -> C:\Users\conta\Documents\Code\reverse-engineering\ghidra-learning\CHelloWorld\x64\Release\CHelloWorld.exe
